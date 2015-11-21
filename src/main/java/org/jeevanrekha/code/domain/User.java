@@ -2,9 +2,6 @@ package org.jeevanrekha.code.domain;
 
 import org.hibernate.validator.constraints.Email;
 
-/**
- * Created by vareshtapadia on 20/11/15.
- */
 public class User {
 
     private final BloodGroup bloodGroup;
